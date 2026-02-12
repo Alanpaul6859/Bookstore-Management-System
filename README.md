@@ -59,6 +59,7 @@ Easily extendable for:
 2. Easy endpoint testing via browser
 
 ⚙️ Configuration
+
 🗄 Database Setup
 
 Create a MySQL database:
